@@ -1,2 +1,2 @@
 # PyTorch-Tutorial
-Tutorial and exercise code following along with a PyTorch tutorial
+The tutorial code and my exercise code following along with a PyTorch tutorial found [here](https://www.learnpytorch.io/).
